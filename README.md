@@ -1,4 +1,4 @@
-# sustain.md
+# sustain.md (WIP)
 The file every project should have in their repo.
 
 ## Why
