@@ -17,7 +17,7 @@ Sustainers acknowledge that open source software is an integral part of modern l
   _Rationale:_ _FOSS are reusable building blocks that power commercial and non-commercial software offerings that operate our digital infrastructure._
 
 1.  **Licensing**
-Sustainers believe that Open Source refers to software that uses a license approved by The Open Source Initiative ([OSI](https://opensource.org/licenses/category)) or The Free Software Foundation ([FSF](https://www.gnu.org/licenses/license-list.en.html)).
+Sustainers believe that open source refers to software that uses a license approved by The Open Source Initiative ([OSI](https://opensource.org/licenses/category)) or The Free Software Foundation ([FSF](https://www.gnu.org/licenses/license-list.en.html)).
 
     _Rationale: The OSI and FSF are organizations created with wide ranging support from open source leaders to be stewards of the open source definition and a forum for advancing the goals of the FOSS movement._
 
@@ -85,22 +85,15 @@ Sustainers pledge to support this Manifesto in its activities. Specifically, we 
 # Invitation
 
 
-We invite all who support the principles of the Sustainers Manifesto to join with us, and to find new ways to make this vision of the Open Source Sustainability a reality. Specifically, participate in our [annual conference](https://sustainoss.org/events/), discuss on our [forum](https://discourse.sustainoss.org/), tag your tweets with [#sustainoss](https://twitter.com/search?q=%23sustainoss&src=typd), and advocate in your own communities.
-
-
-##
+We invite all who support the principles of the Sustainers Manifesto to join with us, and to find new ways to make this vision of the open oource sustainability a reality. Specifically, participate in our [annual conference](https://sustainoss.org/events/), discuss on our [forum](https://discourse.sustainoss.org/), tag your tweets with [#sustainoss](https://twitter.com/search?q=%23sustainoss&src=typd), and advocate in your own communities.
 
 ---
-
-
 
 ## Credits
 
 This work was adapted from [The Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/) using the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license
 
 **Authors of this manifesto:**
-
-
 
 *   Justin Dorfman (@jdorfman)
 *   Georg Link (@georglink)
