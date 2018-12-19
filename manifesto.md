@@ -14,7 +14,7 @@ We have come up with a set of principles that we believe are critical for everyo
 1.  **FOSS is everywhere**
 Sustainers acknowledge that open source software is an integral part of modern life—a key component in society as a whole.
 
-  _Rationale:_ _FOSS are reusable building blocks that power commercial and non-commercial software offerings that operate our digital infrastructure._
+  _Rationale: FOSS are reusable building blocks that power commercial and non-commercial software offerings that operate our digital infrastructure._
 
 1.  **Licensing**
 Sustainers believe that open source refers to software that uses a license approved by The Open Source Initiative ([OSI](https://opensource.org/licenses/category)) or The Free Software Foundation ([FSF](https://www.gnu.org/licenses/license-list.en.html)).
@@ -24,7 +24,7 @@ Sustainers believe that open source refers to software that uses a license appro
 1.  **Maintainers**
 Sustainers work to support maintainers to avoid burnout and build in redundancy.
 
-  _Rationale: FOSS maintainers accepted a responsibility to coordinate development work. We need to support these people to ensure that FOSS continues to be maintained and has responsible leadership._
+_Rationale: FOSS maintainers accepted a responsibility to coordinate development work. We need to support these people to ensure that FOSS continues to be maintained and has responsible leadership._
 
 1.  **Communities**
 Sustainers help cultivate welcoming and inclusive communities for open source projects.
