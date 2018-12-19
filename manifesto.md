@@ -19,7 +19,7 @@ Sustainers acknowledge that open source software is an integral part of modern l
 1.  **Licensing**
 Sustainers believe that open source refers to software that uses a license approved by The Open Source Initiative ([OSI](https://opensource.org/licenses/category)) or The Free Software Foundation ([FSF](https://www.gnu.org/licenses/license-list.en.html)).
 
-    _Rationale: The OSI and FSF are organizations created with wide ranging support from open source leaders to be stewards of the open source definition and a forum for advancing the goals of the FOSS movement._
+  _Rationale: The OSI and FSF are organizations created with wide ranging support from open source leaders to be stewards of the open source definition and a forum for advancing the goals of the FOSS movement._
 
 1.  **Maintainers**
 Sustainers work to support maintainers to avoid burnout and build in redundancy.
@@ -28,7 +28,8 @@ Sustainers work to support maintainers to avoid burnout and build in redundancy.
 
 1.  **Communities**
 Sustainers help cultivate welcoming and inclusive communities for open source projects.
-_Rationale: FOSS is a community effort._
+
+  _Rationale: FOSS is a community effort._
 
 1.  **Governance**
 Sustainers design inclusive and transparent governance for open source project communities.
