@@ -54,7 +54,7 @@ _<span style="text-decoration:underline;">Rationale:</span> FOSS is created to b
 
 # Advancing the Sustainers Manifesto
 
-The Stustainers Manifesto was written and is maintained by participants in the yearly [Sustain Summit](https://sustainoss.org/events/). The Manifesto is open to critique and change requests. To discuss give feedback, discuss the manifesto's meaning, or propose changes, please open a thread on the [Sustain Forum](https://discourse.sustainoss.org/about). For specific changes, please issue a pull request at (where ever we move this).
+The Sustainers Manifesto was written and is maintained by participants in the yearly [Sustain Summit](https://sustainoss.org/events/). The Manifesto is open to critique and change requests. To discuss give feedback, discuss the manifesto's meaning, or propose changes, please open a thread on the [Sustain Forum](https://discourse.sustainoss.org/about). For specific changes, please issue a pull request at (where ever we move this).
 
 
 # Sustainers Pledge
@@ -87,7 +87,7 @@ We invite all who support the principles of the Sustainers Manifesto to join wit
 
 ## Credits
 
-This work was adapted from [The Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/) using the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) licence
+This work was adapted from [The Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/) using the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license
 
 **Authors of this manifesto:**
 
