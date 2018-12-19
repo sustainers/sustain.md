@@ -85,7 +85,7 @@ Sustainers pledge to support this Manifesto in its activities. Specifically, we 
 # Invitation
 
 
-We invite all who support the principles of the Sustainers Manifesto to join with us, and to find new ways to make this vision of the open oource sustainability a reality. Specifically, participate in our [annual conference](https://sustainoss.org/events/), discuss on our [forum](https://discourse.sustainoss.org/), tag your tweets with [#sustainoss](https://twitter.com/search?q=%23sustainoss&src=typd), and advocate in your own communities.
+We invite all who support the principles of the Sustainers Manifesto to join with us, and to find new ways to make this vision of the open oource sustainability a reality. Specifically, participate in our [annual event](https://sustainoss.org/events/), discuss on our [forum](https://discourse.sustainoss.org/), tag your tweets with [#sustainoss](https://twitter.com/search?q=%23sustainoss&src=typd), and advocate in your own communities.
 
 ---
 
