@@ -1,7 +1,5 @@
 # Sustainer Manifesto
 
----
----
 
 # Introduction
 
