@@ -1,3 +1,6 @@
+# Sustainer Manifesto
+
+
 # Introduction
 
 Whether people are aware of it or not, Free and Open Source Software (FOSS) is becoming an increasingly important part of our everyday lives.
