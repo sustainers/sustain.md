@@ -8,7 +8,7 @@ We receive funding from the following:
 If you or your organization gets value out of this project, please consider donating.
 
 ## Bus factor
-The follow individuals have agreed to take over in case of an untimely death or debilitating illness and/or accident.
+The following individuals are maintainers and have the skills, know-how, and access to continue this project in case any of them become unavailable due to untimely death, debilitating illness, accident, or any other reason:
 
 * [Replace with First and Last name]
   * Email:
