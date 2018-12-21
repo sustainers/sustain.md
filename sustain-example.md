@@ -28,5 +28,4 @@ The follow individuals have agreed to take over in case of an untimely death or 
 
 If you would like to improve this please fork it here: https://github.com/sustainers/sustain.md
 
-This document is licensed under the Creative Commons Attribution-ShareAlike 4.0 International Public
-License
+This document is licensed under CC-BY-SA 4.0
