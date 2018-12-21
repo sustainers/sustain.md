@@ -9,7 +9,7 @@ We receive funding from the following platform(s):
 If you or your organization gets value out of this project, please consider donating.
 
 ## Bus factor
-The follow individuals have agreed to take over incase of an untimely death or debilitating illness and/or accident.
+The follow individuals have agreed to take over in case of an untimely death or debilitating illness and/or accident.
 
 * Jane Doe
   * Email: janed@example.com
