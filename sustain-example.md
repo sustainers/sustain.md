@@ -3,25 +3,32 @@ This markdown file is just as important as a README. It ensures those using this
 ## Funding
 We receive funding from the following:
 
-* [Replace with url to donation platform and/or thank you page. You can also list project sponsors here.]
+* https://www.patreon.com/sustainmd-example
+* https://opencollective.com/sustainmd-example
+* https://flattr.com/creators/@sustainmd-example
+* https://en.liberapay.com/sustainmd-example/
+* https://example.com/donations
+* [Foundation Name](https://example.com/foundation-url)
+* [Company Name](https://example.com/company-url)
+* [Individual Name](https://example.com/individual-url)
 
 If you or your organization gets value out of this project, please consider donating.
 
 ## Bus factor
 The following individuals are maintainers and have the skills, know-how, and access to continue this project in case any of them become unavailable due to untimely death, debilitating illness, accident, or any other reason:
 
-* [Replace with First and Last name]
-  * Email:
-  * Twitter:
-  * GitHub:
-  * Keybase/PGP:
+* Jane Doe
+  * Email: janed@example.com
+  * Twitter: @sustainmd-example
+  * GitHub: @sustainmd-example
+  * Keybase/PGP: https://keybase.io/sustainmd-example
 
 
-* [Replace with First and Last name]
-  * Email:
-  * Twitter:
-  * GitHub:
-  * Keybase/PGP:
+* Joe Boe
+  * Email: joeb@example.com
+  * Twitter: @sustainmd-example
+  * GitHub: @sustainmd-example
+  * Keybase/PGP: `B201D628F1302A5E3815B7CEBB28B310B9F90A33`
 
 ---
 
