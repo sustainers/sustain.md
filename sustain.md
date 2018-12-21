@@ -1,9 +1,9 @@
 This markdown file is just as important as a README. It ensures those using this open source software that there are funds coming in as well as a solid back-up plan in case of an debilitating illness, accident, or untimely death.
 
 ## Funding
-We receive funding from the following platform(s):
+We receive funding from the following:
 
-* [Replace with url to donation platform]
+* [Replace with url to donation platform and/or thank you page. You can also list project sponsors here.]
 
 If you or your organization gets value out of this project, please consider donating.
 
