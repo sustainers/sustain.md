@@ -1,10 +1,16 @@
 This markdown file is just as important as a README. It ensures those using this open source software that there are funds coming in as well as a solid back-up plan in case of an debilitating illness, accident, or untimely death.
 
 ## Funding
-We receive funding from the following platform(s):
+We receive funding from the following:
 
 * https://www.patreon.com/sustainmd-example
 * https://opencollective.com/sustainmd-example
+* https://flattr.com/creators/@sustainmd-example
+* https://en.liberapay.com/sustainmd-example/
+* https://example.com/donations
+* [Foundation Name](https://example.com/foundation-url)
+* [Company Name](https://example.com/company-url)
+* [Individual Name](https://example.com/individual-url)
 
 If you or your organization gets value out of this project, please consider donating.
 
