@@ -1,7 +1,30 @@
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This markdown file is just as important as a README. It ensures those using this open source software that there are funds coming in as well as a solid back-up plan in case of an debilitating illness, accident, or untimely death.
 
 ## Funding
-_list services the project uses for donations_
+We receive funding from the following platform(s):
+
+* [Replace with url to donation platform]
+
+If you or your organization gets value out of this project, please consider donating.
 
 ## Bus factor
-_list at least 2 individuals who can take over in case of an untimely death_
+The follow individuals have agreed to take over incase of an untimely death or debilitating illness and/or accident.
+
+* [Replace with First and Last name]
+  * Email:
+  * Twitter:
+  * GitHub:
+  * Keybase/PGP:
+
+
+* [Replace with First and Last name]
+  * Email:
+  * Twitter:
+  * GitHub:
+  * Keybase/PGP:
+
+---
+
+If you would like to improve this please fork it here: https://github.com/sustainers/sustain.md
+
+This document is licensed under CC-BY-SA 4.0
