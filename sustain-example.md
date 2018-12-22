@@ -30,6 +30,16 @@ The following individuals are maintainers and have the skills, know-how, and acc
   * GitHub: @sustainmd-example
   * Keybase/PGP: `B201D628F1302A5E3815B7CEBB28B310B9F90A33`
 
+## Metrics
+"You cannot improve what you do not measure." 
+Public metrics about this project are avaible at these locations:
+
+* https://example.com/metrics-dashboard
+* https://www.openhub.net/p/example-project
+* https://libraries.io/example-tracker/example-project
+
+
+
 ---
 
 If you would like to improve this please fork it here: https://github.com/sustainers/sustain.md
