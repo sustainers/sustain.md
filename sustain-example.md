@@ -32,7 +32,7 @@ The following individuals are maintainers and have the skills, know-how, and acc
 
 ## Metrics
 "You cannot improve what you do not measure." 
-Public metrics about this project are avaible at these locations:
+Public metrics about this project are available at these locations:
 
 * https://example.com/metrics-dashboard
 * https://www.openhub.net/p/example-project
