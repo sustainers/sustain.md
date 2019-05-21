@@ -7,6 +7,7 @@ We receive funding from the following:
 * https://opencollective.com/sustainmd-example
 * https://flattr.com/creators/@sustainmd-example
 * https://en.liberapay.com/sustainmd-example/
+* https://funding.communitybridge.org/projects/sustainmd-example
 * https://example.com/donations
 * [Foundation Name](https://example.com/foundation-url)
 * [Company Name](https://example.com/company-url)
